@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name='d1'>
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+    <string-array name="d2">
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+    <string-array name='d3'>
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+    <string-array name='d4'>
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+    <string-array name='d5'>
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+    <string-array name='d6'>
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+    <string-array name='d7'>
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+    <string-array name='d8'>
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+    <string-array name='d9'>
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+    <string-array name='d10'>
+        <item>First Dealer</item>
+        <item>Second Dealer</item>
+        <item>Third Dealer</item>
+    </string-array>
+</resources>

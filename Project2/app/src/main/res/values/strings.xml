@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="header_name">PhotoGrid</string>
+    <string name="view_large">View picture</string>
+    <string name="web_page">Visit Webpage</string>
+    <string name="dealerships">View Dealerships</string>
+</resources>

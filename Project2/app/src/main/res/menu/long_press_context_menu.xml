@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:Context=".Gallery">
+    <Item
+        android:id="@+id/view_picture"
+        android:title="@string/view_large">HEYY</Item>
+    <Item
+        android:id="@+id/web_page"
+        android:title="@string/web_page"/>
+    <Item
+        android:id="@+id/dealerships"
+        android:title="@+id/dealerships"/>
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="urls">
+        <item>"http://www.audi.com/en.html"</item>
+        <item>"https://www.rolls-roycemotorcars.com/en-GB/home.html"</item>
+        <item>"https://global.astonmartin.com/en-us/"</item>
+        <item>"https://www.nissanusa.com/"</item>
+        <item>"http://www.maseratiusa.com/maserati/us/en"</item>
+        <item>"https://www.mbusa.com/mercedes/index"</item>
+        <item>"http://koenigsegg.com/"</item>
+        <item>"http://www.hotrodsproducts.com/productinfo.aspx"</item>
+        <item>"http://cars.mclaren.com/"</item>
+        <item>"http://www.pagani.com/"</item>
+    </string-array>
+</resources>
